@@ -120,4 +120,4 @@ Stored under keyring service **`PwMrg`**, entry **`config`** (JSON). Example: îˆ
 
 ## License
 
-Add your preferred license here.
+MIT License
